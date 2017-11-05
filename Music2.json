@@ -1,0 +1,21 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S":"Mohammed Rafi"},
+                    "SongTitle": {"S":"Man re, tu kaahe na dheer dhare"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S":"Mohammed Rafi"},
+                    "SongTitle": {"S":"Tere mere sapne ab ek rang hain…"}
+                }
+            }
+        }
+    ]
+}
+

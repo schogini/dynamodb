@@ -1,0 +1,117 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S":"Mohammed Rafi"},
+                    "SongTitle": {"S":"Man re, tu kaahe na dheer dhare"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S":"Mohammed Rafi"},
+                    "SongTitle": {"S":"Tere mere sapne ab ek rang hain…"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S":"Mohammed Rafi"},
+                    "SongTitle": {"S":"Din dhal jaaye, hai raat na jaaye…"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S":"Kishore Kumar"},
+                    "SongTitle": {"S":"Kuch to log kahenge logon ka kaam hai kehna…"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S":"Kishore Kumar"},
+                    "SongTitle": {"S":"Ed Ladiki.."}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S":"Kishore Kumar"},
+                    "SongTitle": {"S":"Mera Sapnonki.."}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S":"Geetha Dutt"},
+                    "SongTitle": {"S":"Waqt ne kiya kya haseen sitam…"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S":"Lata Mangeshkar"},
+                    "SongTitle": {"S":"Pyar kiya to darna kya…"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S":"Lata Mangeshkar"},
+                    "SongTitle": {"S":"Ayega, ayega, ayega ayega aane wala.."}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S":"Lata Mangeshkar"},
+                    "SongTitle": {"S":"Kuch dil ne kaha, kuch bhi nahin.."}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Artist": {"S":"Asha Bhonsle"},
+                    "SongTitle": {"S":"Dil cheez kya hai aap meri jaan lijiye…"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+		  "Artist": { "S": "Mohammed Rafi"},
+		  "SongTitle": { "S": "Chaudhvin Ka Chand Ho "}
+		}
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+  			"Artist": {    "S": "Kishore Kumar"},
+			 "SongTitle": {    "S": "Pal Pal Dil Ke .."   }
+		}
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+        		  "Artist": {    "S": "Lata Mangeshkar"},
+        		  "SongTitle": {    "S": "Age Bhi .."}
+		      }
+            }
+        }
+    ]
+}
+
